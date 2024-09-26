@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/open_meyer/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/open_meyer/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/open_meyer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/open_meyer_game/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/open_meyer_game/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/open_meyer_game/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
